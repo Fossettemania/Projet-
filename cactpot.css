@@ -1,0 +1,17 @@
+.cacher {
+	display: none;
+}
+
+table {
+	border: solid 1px black;
+}
+td{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000000;
+	border-collapse: collapse;
+}
+th{
+	width: 10px;
+	height: 30px;
+}
